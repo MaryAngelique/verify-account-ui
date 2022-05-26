@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Verify Account UI GitHub Solution](https://github.com/MaryAngelique/verify-account-ui)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
