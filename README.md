@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Verify Account UI GitHub Solution](https://github.com/MaryAngelique/verify-account-ui)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Verify Account UI Website](https://verify-account-ui.vercel.app/)
 
 ## My process
 
